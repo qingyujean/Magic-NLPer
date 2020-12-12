@@ -18,7 +18,7 @@
 [最大熵（max entropy）模型原理小结](https://blog.csdn.net/u010366748/article/details/109628920)| 无
 [决策树（Decision Tree）原理小结](https://blog.csdn.net/u010366748/article/details/109821147)| [ML/DecisionTree决策树/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/tree/main/MachineLearning/DecisionTree决策树/t1.ipynb)
 [随机森林（Random Forest）原理小结](https://blog.csdn.net/u010366748/article/details/110008640)| [ML/RandomForest随机森林/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/tree/main/MachineLearning/RandomForest随机森林/t1.ipynb)
-[梯度提升树（GBDT）原理小结](https://blog.csdn.net/u010366748/article/details/111060108)| [MachineLearning/GBDT梯度提升树/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/GBDT梯度提升树/t1.ipynb)
+[梯度提升树（GBDT）原理小结](https://blog.csdn.net/u010366748/article/details/111060108)| [ML/GBDT梯度提升树/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/GBDT梯度提升树/t1.ipynb)
 
 ## 深度学习算法
 ## 自然语言处理算法
