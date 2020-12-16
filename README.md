@@ -23,9 +23,9 @@
 ## 深度学习算法
 |博客地址 | 代码地址|
 ---|---
-[transformer（上）<br>transformer（下）]()| [DL/Transformer/MachinTranslation/pytorch/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/DeepLearning/Transformer/MachinTranslation/pytorch/t1.ipynb)
+[transformer（上）论文解读+pytorch实现](https://blog.csdn.net/u010366748/article/details/111183674) <br>[transformer（下）机器翻译+pytorch实现](https://blog.csdn.net/u010366748/article/details/111269231)| [DL/Transformer/MachinTranslation/pytorch/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/DeepLearning/Transformer/MachinTranslation/pytorch/t1.ipynb)
 
 ## 自然语言处理算法
 |博客地址 | 代码地址|
 ---|---
-[transformer（上）<br>transformer（下）]()| [NLP/MachineTranslation/transformer/pytorch/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/NLP/MachineTranslation/transformer/pytorch/t1.ipynb)
+[transformer（上）论文解读+pytorch实现](https://blog.csdn.net/u010366748/article/details/111183674) <br>[transformer（下）机器翻译+pytorch实现](https://blog.csdn.net/u010366748/article/details/111269231)| [DL/Transformer/MachinTranslation/pytorch/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/DeepLearning/Transformer/MachinTranslation/pytorch/t1.ipynb)
