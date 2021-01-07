@@ -20,6 +20,7 @@
 [随机森林（Random Forest）原理小结](https://blog.csdn.net/u010366748/article/details/110008640)| [ML/RandomForest随机森林/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/tree/main/MachineLearning/RandomForest随机森林/t1.ipynb)
 [梯度提升树（GBDT）原理小结](https://blog.csdn.net/u010366748/article/details/111060108)| [ML/GBDT梯度提升树/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/GBDT梯度提升树/t1.ipynb)
 [XGBoost使用](https://blog.csdn.net/u010366748/article/details/111083706)| [ML/XGBoostUsage/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/XGBoostUsage/t1.ipynb)
+[k近邻法（KNN）原理小结](https://blog.csdn.net/u010366748/article/details/112304969)| [ML/KNN/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/KNN/t1.ipynb)
 
 ## 深度学习算法
 |博客地址 | 代码地址|
