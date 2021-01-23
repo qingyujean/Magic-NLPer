@@ -22,6 +22,8 @@
 [XGBoost使用](https://blog.csdn.net/u010366748/article/details/111083706)| [ML/XGBoostUsage/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/XGBoostUsage/t1.ipynb)
 [k近邻法（KNN）原理小结](https://blog.csdn.net/u010366748/article/details/112304969)| [ML/KNN/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/KNN/t1.ipynb)
 [感知机（Perception）原理小结](https://blog.csdn.net/u010366748/article/details/112740411)| [ML/Perception感知机/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/Perception感知机/t1.ipynb)
+[支持向量机（SVM）原理小结（1）线性支持向量机](https://blog.csdn.net/u010366748/article/details/112852999) <br>[支持向量机（SVM）原理小结（2）非线性支持向量机](https://blog.csdn.net/u010366748/article/details/113065986) <br>[支持向量机（SVM）原理小结（3）支持向量回归SVR](https://blog.csdn.net/u010366748/article/details/113066051)| [ML/SVM支持向量机/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/SVM支持向量机/t1.ipynb)
+
 
 ## 深度学习算法
 |博客地址 | 代码地址|
