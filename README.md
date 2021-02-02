@@ -24,6 +24,7 @@
 [感知机（Perception）原理小结](https://blog.csdn.net/u010366748/article/details/112740411)| [ML/Perception感知机/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/Perception感知机/t1.ipynb)
 [支持向量机（SVM）原理小结（1）线性支持向量机](https://blog.csdn.net/u010366748/article/details/112852999) <br>[支持向量机（SVM）原理小结（2）非线性支持向量机](https://blog.csdn.net/u010366748/article/details/113065986) <br>[支持向量机（SVM）原理小结（3）支持向量回归SVR](https://blog.csdn.net/u010366748/article/details/113066051)| [ML/SVM支持向量机/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/SVM支持向量机/t1.ipynb)
 [朴素贝叶斯（naive bayes）原理小结](https://blog.csdn.net/u010366748/article/details/113150864)| [ML/NaiveBayes朴素贝叶斯/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/NaiveBayes朴素贝叶斯/t1.ipynb)
+[隐马尔科夫模型（HMM）原理小结（1）](https://blog.csdn.net/u010366748/article/details/113554958) <br>[隐马尔科夫模型（HMM）原理小结（2）](https://blog.csdn.net/u010366748/article/details/113573732) <br>[手撸HMM实现词性标注（Part-of-speech）](https://blog.csdn.net/u010366748/article/details/113563529)| [ML/HMM隐马尔可夫模型/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/HMM隐马尔可夫模型/t1.ipynb)
 
 ## 深度学习算法
 |博客地址 | 代码地址|
@@ -35,3 +36,4 @@
 ---|---
 [transformer（上）论文解读+pytorch实现](https://blog.csdn.net/u010366748/article/details/111183674) <br>[transformer（下）机器翻译+pytorch实现](https://blog.csdn.net/u010366748/article/details/111269231)| [NLP/MachineTranslation/transformer/pytorch/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/tree/main/NLP/MachineTranslation/transformer/pytorch/t1.ipynb)
 [朴素贝叶斯（naive bayes）原理小结](https://blog.csdn.net/u010366748/article/details/113150864)| [NLP/Classification/binary/naive_bayes/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/tree/main/NLP/Classification/binary/naive_bayes/t1.ipynb)
+[隐马尔科夫模型（HMM）原理小结（1）](https://blog.csdn.net/u010366748/article/details/113554958) <br>[隐马尔科夫模型（HMM）原理小结（2）](https://blog.csdn.net/u010366748/article/details/113573732) <br>[手撸HMM实现词性标注（Part-of-speech）](https://blog.csdn.net/u010366748/article/details/113563529)| [ML/HMM隐马尔可夫模型/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/HMM隐马尔可夫模型/t1.ipynb)
