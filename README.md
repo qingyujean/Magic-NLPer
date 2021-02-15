@@ -28,6 +28,7 @@
 [EM（Expectation Maximization）算法原理小结](https://blog.csdn.net/u010366748/article/details/113446070)| 无
 [隐马尔科夫模型（HMM）原理小结（1）](https://blog.csdn.net/u010366748/article/details/113554958) <br>[隐马尔科夫模型（HMM）原理小结（2）](https://blog.csdn.net/u010366748/article/details/113573732) <br>[手撸HMM实现词性标注（Part-of-speech）](https://blog.csdn.net/u010366748/article/details/113563529)| [ML/HMM隐马尔可夫模型/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/HMM隐马尔可夫模型/t1.ipynb)
 [条件随机场（CRF）原理小结（1）](https://blog.csdn.net/u010366748/article/details/113781150) <br>[条件随机场（CRF）原理小结（2）](https://blog.csdn.net/u010366748/article/details/113783526) <br>[BiLSTM-CRF实现中文命名实体识别（NER）](https://blog.csdn.net/u010366748/article/details/113784204)| [ML/CRF条件随机场/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/CRF条件随机场/t1.ipynb)
+[集成学习原理小结（AdaBoost & lightGBM demo）](https://blog.csdn.net/u010366748/article/details/113816465)| [ML/AdaBoost/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/tree/main/MachineLearning/AdaBoost/t1.ipynb) <br>[ML/AdaBoost/lightgbm_demo.ipynb](https://github.com/qingyujean/Magic-NLPer/tree/main/MachineLearning/AdaBoost/lightgbm_demo.ipynb)
 
 ## 深度学习算法
 |博客地址 | 代码地址|
