@@ -47,6 +47,9 @@
 [条件随机场（CRF）原理小结（1）](https://blog.csdn.net/u010366748/article/details/113781150) <br>[条件随机场（CRF）原理小结（2）](https://blog.csdn.net/u010366748/article/details/113783526) <br>[BiLSTM-CRF实现中文命名实体识别（NER）](https://blog.csdn.net/u010366748/article/details/113784204)| [ML/CRF条件随机场/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/CRF条件随机场/t1.ipynb)
 
 ## 论文阅读
-|论文 | 发表年份| 源码 | 博客地址 |
----|---|---|---
-[Neural entity linking: A survey of models based on deep learning](https://arxiv.org/abs/2006.00575) | 2020 | 无 | [实体链指（1）综述](https://blog.csdn.net/u010366748/article/details/126680220)|
+|论文 | 发表年份|  博客地址 |
+---|---|---
+[Character-Level Language Modeling with Deeper Self-Attention](https://arxiv.org/abs/1808.04444) | AAAI 2019 | [论文笔记-Vanilla Transformer](https://blog.csdn.net/u010366748/article/details/114301942)|
+[Deep contextualized word representations](https://arxiv.org/abs/1802.05365) | 	NAACL 2018 | [ELMo论文笔记+源码分析](https://blog.csdn.net/u010366748/article/details/110309131)|
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762) | NeurIPS 2017 | [transformer（上）论文解读+pytorch实现](https://blog.csdn.net/u010366748/article/details/111183674)|
+[Neural entity linking: A survey of models based on deep learning](https://arxiv.org/abs/2006.00575) | 2020 | [实体链指（1）综述](https://blog.csdn.net/u010366748/article/details/126680220)|
