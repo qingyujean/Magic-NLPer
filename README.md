@@ -6,11 +6,12 @@
 
 ## 目录
 
-- [机器学习算法](#机器学习算法)
-- [深度学习算法](#深度学习算法)
-- [自然语言处理算法](#自然语言处理算法)
+- [机器学习](#机器学习)
+- [深度学习](#深度学习)
+- [自然语言处理](#自然语言处理)
+- [论文阅读](#论文阅读)
 
-## 机器学习算法
+## 机器学习
 
 |博客地址 | 代码地址|
 ---|---
@@ -31,16 +32,21 @@
 [集成学习原理小结（AdaBoost & lightGBM demo）](https://blog.csdn.net/u010366748/article/details/113816465)| [ML/AdaBoost/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/tree/main/MachineLearning/AdaBoost/t1.ipynb) <br>[ML/AdaBoost/lightgbm_demo.ipynb](https://github.com/qingyujean/Magic-NLPer/tree/main/MachineLearning/AdaBoost/lightgbm_demo.ipynb)
 [统计机器学习相关概念总结（上）](https://blog.csdn.net/u010366748/article/details/113829064) <br>[统计机器学习相关概念总结（中）](https://blog.csdn.net/u010366748/article/details/113829373) <br>[统计机器学习相关概念总结（下）](https://blog.csdn.net/u010366748/article/details/113829508)| 无
 
-## 深度学习算法
+## 深度学习
 |博客地址 | 代码地址|
 ---|---
 [transformer（上）论文解读+pytorch实现](https://blog.csdn.net/u010366748/article/details/111183674) <br>[transformer（下）机器翻译+pytorch实现](https://blog.csdn.net/u010366748/article/details/111269231)| [DL/Transformer/MachinTranslation/pytorch/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/DeepLearning/Transformer/MachinTranslation/pytorch/t1.ipynb)
 [条件随机场（CRF）原理小结（1）](https://blog.csdn.net/u010366748/article/details/113781150) <br>[条件随机场（CRF）原理小结（2）](https://blog.csdn.net/u010366748/article/details/113783526) <br>[BiLSTM-CRF实现中文命名实体识别（NER）](https://blog.csdn.net/u010366748/article/details/113784204)| [ML/CRF条件随机场/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/CRF条件随机场/t1.ipynb)
 
-## 自然语言处理算法
+## 自然语言处理
 |博客地址 | 代码地址|
 ---|---
 [transformer（上）论文解读+pytorch实现](https://blog.csdn.net/u010366748/article/details/111183674) <br>[transformer（下）机器翻译+pytorch实现](https://blog.csdn.net/u010366748/article/details/111269231)| [NLP/MachineTranslation/transformer/pytorch/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/tree/main/NLP/MachineTranslation/transformer/pytorch/t1.ipynb)
 [朴素贝叶斯（naive bayes）原理小结](https://blog.csdn.net/u010366748/article/details/113150864)| [NLP/Classification/binary/naive_bayes/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/tree/main/NLP/Classification/binary/naive_bayes/t1.ipynb)
 [隐马尔科夫模型（HMM）原理小结（1）](https://blog.csdn.net/u010366748/article/details/113554958) <br>[隐马尔科夫模型（HMM）原理小结（2）](https://blog.csdn.net/u010366748/article/details/113573732) <br>[手撸HMM实现词性标注（Part-of-speech）](https://blog.csdn.net/u010366748/article/details/113563529)| [ML/HMM隐马尔可夫模型/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/HMM隐马尔可夫模型/t1.ipynb)
 [条件随机场（CRF）原理小结（1）](https://blog.csdn.net/u010366748/article/details/113781150) <br>[条件随机场（CRF）原理小结（2）](https://blog.csdn.net/u010366748/article/details/113783526) <br>[BiLSTM-CRF实现中文命名实体识别（NER）](https://blog.csdn.net/u010366748/article/details/113784204)| [ML/CRF条件随机场/t1.ipynb](https://github.com/qingyujean/Magic-NLPer/blob/main/MachineLearning/CRF条件随机场/t1.ipynb)
+
+## 论文阅读
+|论文 | 发表年份| 源码 | 博客地址 |
+---|---|---|---
+[Neural entity linking: A survey of models based on deep learning](https://arxiv.org/abs/2006.00575) | 2020 | 无 | [实体链指（1）综述](https://blog.csdn.net/u010366748/article/details/126680220)|
