@@ -53,3 +53,7 @@
 [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) | 	NAACL 2018 | [ELMo论文笔记+源码分析](https://blog.csdn.net/u010366748/article/details/110309131)|
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | NeurIPS 2017 | [transformer（上）论文解读+pytorch实现](https://blog.csdn.net/u010366748/article/details/111183674)|
 [Neural entity linking: A survey of models based on deep learning](https://arxiv.org/abs/2006.00575) | 2020 | [实体链指（1）综述](https://blog.csdn.net/u010366748/article/details/126680220)|
+[Neural Cross-Lingual Entity Linking](https://arxiv.org/abs/1712.01813) | AAAI, 2018 | [实体链指（2）EL：Disambiguation-Only](https://blog.csdn.net/u010366748/article/details/126686525)|
+[Scalable Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/abs/1911.03814) | EMNLP, 2020 | [实体链指（2）EL：Disambiguation-Only](https://blog.csdn.net/u010366748/article/details/126686525)|
+[End-to-End Neural Entity Linking](https://arxiv.org/abs/1808.07699) | CoNLL 2018 | [实体链指（3）EL：End-to-End](https://blog.csdn.net/u010366748/article/details/126691127)|
+[Efficient One-Pass End-to-End Entity Linking for Questions](https://arxiv.org/abs/2010.02413) | EMNLP 2020 | [实体链指（3）EL：End-to-End](https://blog.csdn.net/u010366748/article/details/126691127)|
